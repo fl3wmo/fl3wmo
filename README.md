@@ -7,5 +7,5 @@ I'm currently developing...
  - 🕸️ web applications using TypeScript (NextJS)
  - 🎮 game mods using C++
 
-And have experience with C#, Java and PHP.
+And have experience with C#, Java.
 But, I continue to learn new languages, technologies, and you need do it too! 💖
